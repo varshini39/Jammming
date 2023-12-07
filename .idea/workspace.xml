@@ -5,14 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03ce1ae4-4829-4760-8e74-c24424c07167" name="Changes" comment="merge conflict">
+      <change afterPath="$PROJECT_DIR$/src/components/Playlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SearchBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SearchResults.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Track.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrackList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/css/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/css/Playlist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/css/SearchBar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/css/SearchResults.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/css/Track.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/css/TrackList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/MusicJammer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,6 +58,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/Varshu/Intellij/Thoughtworks&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -43,12 +68,15 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\Varshu\\AppData\\Local\\Programs\\IntelliJ IDEA Ultimate\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Varshu\Code\React\jammming\src\components" />
+      <recent name="D:\Varshu\Code\React\jammming\src\resources\css" />
+      <recent name="D:\Varshu\Code\React\jammming\src" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -76,6 +104,8 @@
       <updated>1701008946292</updated>
       <workItem from="1701008947314" duration="3889000" />
       <workItem from="1701179422492" duration="112000" />
+      <workItem from="1701676305849" duration="2616000" />
+      <workItem from="1701957807731" duration="751000" />
     </task>
     <task id="LOCAL-00001" summary="git ignore">
       <option name="closed" value="true" />
